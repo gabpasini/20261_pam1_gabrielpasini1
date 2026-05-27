@@ -40,7 +40,7 @@ class PaginaPrincipal extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: const Icon(Icons.),
+        child: const Icon(Icons.house)
       ),
       bottomNavigationBar: BottomNavigationBar(
         items: const [
